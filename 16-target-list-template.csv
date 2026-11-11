@@ -1,0 +1,4 @@
+id,business_name,industry,type,area,city,phone,whatsapp,google_maps_link,rating,review_count,owner_name,status,call_attempts,last_call_date,next_step,next_step_date,demo_date,pilot_start,notes
+1,EXAMPLE - delete this row,hospital,dental,Anna Nagar,Chennai,04400000000,9100000000,https://maps.google.com/?cid=EXAMPLE,4.6,120,Dr. Example,meeting_booked,2,2026-10-24,Visit to set up pilot,2026-10-27,,,"Uses a paper register; receptionist does follow-ups"
+2,EXAMPLE - delete this row,gym,gym,RS Puram,Coimbatore,04220000000,9100000001,https://maps.google.com/?cid=EXAMPLE,4.3,85,Mr. Example,call_back,1,2026-10-24,Call after 4 pm,2026-10-25,,,"Owner busy in the morning; renewals tracked in Excel"
+3,EXAMPLE - delete this row,education,coaching,KK Nagar,Madurai,04520000000,9100000002,https://maps.google.com/?cid=EXAMPLE,4.8,40,Ms. Example,new,0,,,,,,
